@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup (
 name = 'nested_list',
-version = '1.0.0',
+version = '1.3.0',
 py_modules= ['nested_list'],
 author= 'Dragos Nechita',
 author_email= 'hfpython@headfirstlabs.com',
